@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @XinBaoCode
-- 👀 I’m interested in JS, TS, Go, Rust
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到鑫宝的GitHub;如无必要,勿增实体)](https://git.io/typing-svg)
 
 <!---
 XinBaoCode/XinBaoCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
