@@ -1,6 +1,6 @@
 <!-- 打字的特效 -->
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=Welcome to XinBao GitHub;If you don't need it, don't add to it" alt="typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=Welcome+to+XinBaoCode+Github;If+you+don't+need+it%2C+don't+add+to+it" alt="typing-svg">
 </p>
 
 <!-- shields的社交关注者数目 -->
