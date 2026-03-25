@@ -15,9 +15,9 @@
 
 <h3>🥱About me</h3>
 <ul>
-	<li>Nickname：Xin Bao</li>
+	<li>Nickname：XinBao</li>
 	<li>Hometown: HangZhou </li>
-	<li>Job: Frontend developer</li>
+	<li>Job: Frontend Developer</li>
 </ul>
 
 <!-- GitHub Stats Card && Most used languages -->
