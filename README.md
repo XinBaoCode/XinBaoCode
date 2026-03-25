@@ -15,9 +15,8 @@
 
 <h3>🥱About me</h3>
 <ul>
-	<li>Name: Yu Xin</li>
 	<li>Nickname：Xin Bao</li>
-	<li>Hometown: PoYang/ShangRao, JiangXi Province in China</li>
+	<li>Hometown: HangZhou </li>
 	<li>Job: Frontend developer</li>
 </ul>
 
